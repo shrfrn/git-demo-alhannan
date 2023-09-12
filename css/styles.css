@@ -5,3 +5,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+button {
+    background-color: lightsteelblue;
+    border: 1px solid lightgrey;
+}
